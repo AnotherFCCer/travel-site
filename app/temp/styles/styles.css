@@ -3,9 +3,8 @@ comment created for purposes of exercise in lecture 11
 "'old' version"
 */
 
-$mainColor: blue;
-
 body {
-    background-color: $mainColor;
-    columns: 500px 2
+    background-color: blue;
+    -webkit-columns: 500px 2;
+            columns: 500px 2
 }
